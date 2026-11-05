@@ -1,0 +1,8 @@
+DayOfWeek,Total_Invoices,Cancelled_Invoices,Day,Cancellation_Percentage
+0,4590,641,Monday,13.97
+1,5688,1063,Tuesday,18.69
+2,5073,791,Wednesday,15.59
+3,6025,1108,Thursday,18.39
+4,4429,730,Friday,16.48
+5,32,0,Saturday,0.0
+6,2979,259,Sunday,8.69

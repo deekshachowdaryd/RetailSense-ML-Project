@@ -1,0 +1,16 @@
+{
+    "svm_features": [
+        "LineCount",
+        "UniqueProducts",
+        "TotalQuantity",
+        "AveragePrice",
+        "TotalValue",
+        "Country",
+        "Hour",
+        "DayOfWeek",
+        "Month"
+    ],
+    "best_k": 2,
+    "svm_accuracy": 76.01,
+    "svm_balanced_accuracy": 81.32
+}
